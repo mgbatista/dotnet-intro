@@ -42,6 +42,10 @@ namespace MinhaAppVSCode
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            // app.UseMiddleware<MeuMiddleware>();
+            app.UseMeuMiddleware();
+
+            
             app.UseRouting();
 
             app.UseAuthorization();

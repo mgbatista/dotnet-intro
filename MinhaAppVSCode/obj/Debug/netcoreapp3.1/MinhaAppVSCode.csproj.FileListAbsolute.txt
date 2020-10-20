@@ -73,3 +73,4 @@ C:\my_project_dir\dotnet-intro\MinhaAppVSCode\obj\Debug\netcoreapp3.1\MinhaAppVS
 C:\my_project_dir\dotnet-intro\MinhaAppVSCode\obj\Debug\netcoreapp3.1\MinhaAppVSCode.pdb
 C:\my_project_dir\dotnet-intro\MinhaAppVSCode\obj\Debug\netcoreapp3.1\MinhaAppVSCode.genruntimeconfig.cache
 C:\my_project_dir\dotnet-intro\MinhaAppVSCode\obj\Debug\netcoreapp3.1\MinhaAppVSCode.csproj.CopyComplete
+C:\my_project_dir\dotnet-intro\MinhaAppVSCode\bin\Debug\netcoreapp3.1\AutoMapper.dll
