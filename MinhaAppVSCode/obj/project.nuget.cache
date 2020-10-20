@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hzf9qJJ/lsll6RYuzuKuil7ICKmF5kzulaM8Urwit8mPHPHyyI+1l34M/PbMmPkQIvPy1nC+Ap7kP0yTmYjH0g==",
+  "dgSpecHash": "qoDIMs0Yhyc2vmnAtRhyXHULfrKxDvX25UIOBTOBhlwddC/zVjzMp1axgDZqohCfAhZqHaq/ncntZhYeApYoVA==",
   "success": true,
-  "projectFilePath": "C:\\my_project_dir\\DotNet\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maiara\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\maiara\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\maiara\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

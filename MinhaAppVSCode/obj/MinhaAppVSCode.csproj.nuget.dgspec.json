@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\my_project_dir\\DotNet\\MinhaAppVSCode\\MinhaAppVSCode.csproj": {}
+    "C:\\my_project_dir\\dotnet-intro\\MinhaAppVSCode\\MinhaAppVSCode.csproj": {}
   },
   "projects": {
-    "C:\\my_project_dir\\DotNet\\MinhaAppVSCode\\MinhaAppVSCode.csproj": {
+    "C:\\my_project_dir\\dotnet-intro\\MinhaAppVSCode\\MinhaAppVSCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\my_project_dir\\DotNet\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+        "projectUniqueName": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
         "projectName": "MinhaAppVSCode",
-        "projectPath": "C:\\my_project_dir\\DotNet\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+        "projectPath": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
         "packagesPath": "C:\\Users\\maiara\\.nuget\\packages\\",
-        "outputPath": "C:\\my_project_dir\\DotNet\\MinhaAppVSCode\\obj\\",
+        "outputPath": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVSCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "automapper": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

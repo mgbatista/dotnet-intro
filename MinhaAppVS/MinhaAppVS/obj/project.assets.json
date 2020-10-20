@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\my_project_dir\\DotNet\\MinhaAppVS\\MinhaAppVS\\MinhaAppVS.csproj",
+      "projectUniqueName": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVS\\MinhaAppVS\\MinhaAppVS.csproj",
       "projectName": "MinhaAppVS",
-      "projectPath": "C:\\my_project_dir\\DotNet\\MinhaAppVS\\MinhaAppVS\\MinhaAppVS.csproj",
+      "projectPath": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVS\\MinhaAppVS\\MinhaAppVS.csproj",
       "packagesPath": "C:\\Users\\maiara\\.nuget\\packages\\",
-      "outputPath": "C:\\my_project_dir\\DotNet\\MinhaAppVS\\MinhaAppVS\\obj\\",
+      "outputPath": "C:\\my_project_dir\\dotnet-intro\\MinhaAppVS\\MinhaAppVS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
